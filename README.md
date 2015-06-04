@@ -1,0 +1,2 @@
+# EthereumDataManager
+Ethereum blockchain explorer.
